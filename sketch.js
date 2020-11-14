@@ -4,8 +4,8 @@ var database;
 
 function preload()
 {
-  dogha = loadImage("images/dogImg.png");
-  happyDog = loadImage("images/dogImg1.png");
+  dogha = loadImage("dogImg.png");
+  happyDog = loadImage("dogImg1.png");
 }
 
 function setup(){
